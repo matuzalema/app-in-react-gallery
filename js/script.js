@@ -3,31 +3,31 @@ var movies = [
     id: 1,
     title: 'Buntownik z wyboru',
     desc: 'Will, matematyczny geniusz gardzący formalnym wykształceniem, zostaje oskarżony o pobicie policjanta. Profesor MIT, świadomy talentu chłopaka, proponuje mu, aby w zamian za zwolnienie z aresztu podjął naukę i terapię psychologiczną. ',
-    src: '../images/buntownik.jpg'
+    src: 'images/buntownik.jpg'
   },
   {
     id: 2,
     title: 'Przebudzenia',
     desc: 'Oparta na prawdziwych wydarzeniach opowieść o lekarzu, który za pomocą eksperymentalnego leku przywracał do świadomości pogrążonych w śpiączce pacjentów.',
-    src: '../images/przebudzenia.jpg'
+    src: 'images/przebudzenia.jpg'
   },
   {
     id: 3,
     title: 'Nietykalni',
     desc: 'Sparaliżowany milioner zatrudnia do opieki młodego chłopaka z przedmieścia, który właśnie wyszedł z więzienia.',
-    src: '../images/nietykalni.jpg'
+    src: 'images/nietykalni.jpg'
   },
   {
     id: 4,
     title: 'Forrest Gump',
     desc: 'Historia życia Forresta, chłopca o niskim ilorazie inteligencji z niedowładem kończyn, który staje się miliarderem i bohaterem wojny w Wietnamie.',
-    src: '../images/forrest.jpg'
+    src: 'images/forrest.jpg'
   },
   {
     id: 5,
     title: 'Patch Adams',
     desc: 'Po nieudanej próbie samobójczej zakończonej pobytem w szpitalu psychiatrycznym Patch postanawia zostać lekarzem. Niekonwencjonalne podejście do zawodu przysparza mu tyluż przyjaciół, co wrogów. ',
-    src: '../images/patch.jpg'
+    src: 'images/patch.jpg'
   },
 ];
 
